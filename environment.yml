@@ -1,0 +1,11 @@
+name: APML
+channels:
+  - defaults
+dependencies:
+  - tensorflow
+  - numba
+  - scikit-learn
+  - pandas
+  - seaborn
+  - matplotlib
+  - jupyterlab

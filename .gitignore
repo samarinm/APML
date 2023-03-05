@@ -1,0 +1,10 @@
+/*
+!*.gitignore
+!README.md
+!environment.yml
+!/Notebooks
+/Notebooks/*
+!/Notebooks/images/
+/Notebooks/images/.DS_Store
+/Notebooks/images/.ipynb_checkpoints/*
+!/Notebooks/0-Introduction.ipynb
