@@ -7,7 +7,8 @@ Find the course description in the programme of [Transferable Skills](https://fo
 
 ## Updates
 
-* *Wednesday, 15 March: First notebooks to be uploaded.*
+* Wednesday, 15 March: Data, images, and notebooks on "1-Python_Concepts", "2-Regression_and_Classification", "3-Dim_Reduction_Clustering", "4-Kernel_Methods" uploaded.
+* *Thursday, 16 March: Update of first course day's notebooks to be uploaded.*
 
 ## Set up Python
 
