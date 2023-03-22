@@ -11,8 +11,15 @@
 !/Notebooks/data/
 /Notebooks/data/.DS_Store
 /Notebooks/data/.ipynb_checkpoints/*
+!/Notebooks/output/
+/Notebooks/output/.DS_Store
+/Notebooks/output/.ipynb_checkpoints/*
 !/Notebooks/0-Introduction.ipynb
 !/Notebooks/1-Python_Concepts.ipynb
 !/Notebooks/2-Regression_and_Classification.ipynb
 !/Notebooks/3-Dim_Reduction_Clustering.ipynb
 !/Notebooks/4-Kernel_Methods.ipynb
+!/Notebooks/5-Neural_Networks.ipynb
+!/Notebooks/6-VAE.ipynb
+!/Notebooks/7-Image_Segmentation.ipynb
+!/Notebooks/8-Download_your_Notebooks.ipynb

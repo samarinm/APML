@@ -10,7 +10,10 @@ Find the course description in the programme of [Transferable Skills](https://fo
 * Wednesday, 15 March: Data, images, and notebooks on "1-Python_Concepts", "2-Regression_and_Classification", "3-Dim_Reduction_Clustering", "4-Kernel_Methods" uploaded.
 * Thursday, 16 March: Update of notebooks 1 (with solution) and 2 uploaded.
 * Friday, 17 March: Update of second course day's notebooks to be uploaded.
-* *Wednesday, 22 March: Notebooks of second week to be uploaded.*
+* Wednesday, 22 March: Data, images, outputs and notebooks on "5-Neural_Networks", "6-VAE",
+"7-Image_Segmentation", "8-Download_your_Notebooks" uploaded.
+* *Thursday, 23 March: Update after third course day to be uploaded.*
+* *Friday, 24 March: All course material to be uploaded.*
 
 ## Set up Python
 
