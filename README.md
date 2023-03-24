@@ -13,7 +13,7 @@ Find the course description in the programme of [Transferable Skills](https://fo
 * Wednesday, 22 March: Data, images, outputs and notebooks on "5-Neural_Networks", "6-VAE",
 "7-Image_Segmentation", "8-Download_your_Notebooks" uploaded.
 * Thursday, 23 March: Update of third course day's notebook 4 (with solutions) and 5 uploaded.
-* *Friday, 24 March: All course material to be uploaded.*
+* Friday, 24 March: All materials uploaded: all notebooks with solutions, notebooks as a single PDF, presentation slides.
 
 ## Set up Python
 

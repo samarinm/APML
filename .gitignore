@@ -2,6 +2,10 @@
 !*.gitignore
 !README.md
 !environment.yml
+!/Presentation
+/Presentation/*
+!/Presentation/APML_March-23.pdf
+!PDF_Notebooks.pdf
 !/Notebooks
 /Notebooks/*
 !/Notebooks/images/
