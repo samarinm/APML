@@ -1,31 +1,33 @@
 # Advanced Python and Machine Learning
 
-This repository provides educational materials for the advanced course on Python programming and Machine Learning (16th, 17th, 23th, and 24th of March 2023) offered in the Transferable Skills programme at the University of Basel. The course covers concepts and techniques in Python programming, as well as the implementation of common Machine Learning algorithms. 
+This repository provides educational materials for the advanced course on Python programming and Machine Learning (29th, 30th of April and 6th, 7th of May 2024) offered in the Transferable Skills programme at the University of Basel. The course covers concepts and techniques in Python programming, as well as the implementation of common Machine Learning algorithms. 
 
 
-Find the course description in the programme of [Transferable Skills](https://fortbildung.unibas.ch/courses/organizer/scientific-tools/advanced-python-and-machine-learning-296175). This course is jointly designed and held by [Vitali Nesterov](mailto:vitali.nesterov@icloud.com) and Dr. [Maxim Samarin](mailto:samarinm17@gmail.com).
+Find the course description in the programme of [Transferable Skills](https://fortbildung.unibas.ch/courses/organizer/scientific-tools/advanced-python-and-machine-learning-298321). This course is jointly designed and held by [Vitali Nesterov](mailto:vitali.nesterov@icloud.com) and Dr. [Maxim Samarin](mailto:samarinm17@gmail.com).
 
 ## Updates
 
-* Wednesday, 15 March: Data, images, and notebooks on "1-Python_Concepts", "2-Regression_and_Classification", "3-Dim_Reduction_Clustering", "4-Kernel_Methods" uploaded.
-* Thursday, 16 March: Update of notebooks 1 (with solution) and 2 uploaded.
-* Friday, 17 March: Update of second course day's notebooks uploaded.
-* Wednesday, 22 March: Data, images, outputs and notebooks on "5-Neural_Networks", "6-VAE",
-"7-Image_Segmentation", "8-Download_your_Notebooks" uploaded.
-* Thursday, 23 March: Update of third course day's notebook 4 (with solutions) and 5 uploaded.
-* Friday, 24 March: All materials uploaded: all notebooks with solutions, notebooks as a single PDF, presentation slides.
+* _Friday, 26th April: Upload course material first week._
 
 ## Set up Python
 
 In order to set up Python on your own machine, we recommend using [Anaconda](https://www.anaconda.com/products/individual). Follow the steps outlined in our [YouTube instruction video](https://youtu.be/-RJnYbxVZTg) to install Python and getting started with the Jupyter notebooks.
 
-If you are more advanced and/or Anaconda is already set up on your machine, you can create a new environment with the necessary libraries through
+If you are more advanced and/or Anaconda is already set up on your machine, you can create the course environment with the necessary libraries through the following two steps.
+
+1. Install the `libmamba` solver (in the `base` environment`). This can significantly speed up the creation of new conda environments. Do this with the following command in your terminal:
 
 ```
-conda env create -f environment.yml
+conda install -n base conda-libmamba-solver
+```
+
+2. Set up the new environment `APML` by running the following command in your terminal (which makes use of `libmamba`):
+
+```
+conda env create -f environment.yml --solver=libmamba
 ``` 
 
-activate the environment via
+Now, you can activate the environment via
 
 ```
 conda activate APML

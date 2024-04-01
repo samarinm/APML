@@ -9,3 +9,8 @@ dependencies:
   - seaborn
   - matplotlib
   - jupyterlab
+  - xarray
+  - pip
+  - pip:
+    - deepsmiles
+    - rdkit
