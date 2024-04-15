@@ -3,7 +3,7 @@
 This repository provides educational materials for the advanced course on Python programming and Machine Learning (29th, 30th of April and 6th, 7th of May 2024) offered in the Transferable Skills programme at the University of Basel. The course covers concepts and techniques in Python programming, as well as the implementation of common Machine Learning algorithms. 
 
 
-Find the course description in the programme of [Transferable Skills](https://fortbildung.unibas.ch/courses/organizer/scientific-tools/advanced-python-and-machine-learning-298321). This course is jointly designed and held by [Vitali Nesterov](mailto:vitali.nesterov@icloud.com) and Dr. [Maxim Samarin](mailto:samarinm17@gmail.com).
+Find the course description in the programme of [Transferable Skills](https://fortbildung.unibas.ch/courses/organizer/scientific-tools/advanced-python-and-machine-learning-298321). 
 
 ## Updates
 
