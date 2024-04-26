@@ -8,4 +8,11 @@
 /Notebooks/images/.DS_Store
 /Notebooks/images/.ipynb_checkpoints/*
 /Notebooks/images/ppt/*
+!/Notebooks/data/
+/Notebooks/data/.DS_Store
+/Notebooks/data/.ipynb_checkpoints/*
 !/Notebooks/0-Introduction.ipynb
+!/Notebooks/1-Python_Concepts.ipynb
+!/Notebooks/2-Regression_and_Classification.ipynb
+!/Notebooks/3-Dim_Reduction_Clustering.ipynb
+!/Notebooks/4-Kernel_Methods.ipynb
