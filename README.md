@@ -8,7 +8,8 @@ Find the course description in the programme of [Transferable Skills](https://fo
 ## Updates
 
 * Friday, 26th April: Course material of first week uploaded.
-* *Monday, 29th April: Update after first course day.*
+* Monday, 29th April: Update after first course day.
+* *Tuesday, 29th April: Update after second course day.*
 
 ## Set up Python
 
