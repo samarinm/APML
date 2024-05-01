@@ -16,3 +16,16 @@
 !/Notebooks/2-Regression_and_Classification.ipynb
 !/Notebooks/3-Dim_Reduction_Clustering.ipynb
 !/Notebooks/4-Kernel_Methods.ipynb
+!/Assignments
+/Assignments/*
+/Assignments/.DS_Store
+/Assignments/.ipynb_checkpoints/*
+!/Assignments/data/
+/Assignments/data/.DS_Store
+/Assignments/data/.ipynb_checkpoints/*
+!/Assignments/src/
+/Assignments/src/.DS_Store
+/Assignments/src/.ipynb_checkpoints/*
+!/Assignments/A1-Python.ipynb
+!/Assignments/A2-Earshell_Analysis.ipynb
+!/Assignments/A3-Finance_PCA_Clustering.ipynb
