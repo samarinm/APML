@@ -2,6 +2,10 @@
 !*.gitignore
 !README.md
 !environment.yml
+!/Presentation
+/Presentation/*
+!/Presentation/APML_FS23.pdf
+!PDF_Notebooks.pdf
 !/Notebooks
 /Notebooks/*
 !/Notebooks/images/
@@ -36,3 +40,4 @@
 !/Assignments/A1-Python.ipynb
 !/Assignments/A2-Earshell_Analysis.ipynb
 !/Assignments/A3-Finance_PCA_Clustering.ipynb
+!/Assignments/A4-Fashion_VAE.ipynb
