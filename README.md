@@ -13,7 +13,7 @@ Find the course description in the programme of [Transferable Skills](https://fo
 * Wednesday, 1st May: Upload first three assignments (out of four).
 * Friday, 3rd May: Course material of second week uploaded.
 * Monday, 6th May: Update after third course day and upload final assignment.
-* *Tuesday, 7th May: Upload all course material.*
+* Tuesday, 7th May: Upload of all material after the course.
 
 ## Set up Python
 
