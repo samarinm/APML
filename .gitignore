@@ -9,3 +9,4 @@
 /Notebooks/images/.ipynb_checkpoints/*
 /Notebooks/images/ppt/*
 !/Notebooks/0-Introduction.ipynb
+!Dockerfile
