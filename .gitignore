@@ -2,6 +2,8 @@
 !*.gitignore
 !README.md
 !environment.yml
+!APML_FS26.pdf
+!PDF_Notebooks.pdf
 !/Notebooks
 /Notebooks/*
 !/Notebooks/images/
